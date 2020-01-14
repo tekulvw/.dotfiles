@@ -1,0 +1,11 @@
+[push]
+	default = simple
+[user]
+	email = tekulve.will@gmail.com
+	name = Will Tekulve
+[pull]
+	rebase = false
+[gc]
+	autoDetach = false
+[core]
+	autocrlf = input
